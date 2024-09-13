@@ -1,0 +1,38 @@
+h1 {
+  color: teal;
+  text-transform: uppercase;
+  font-family: fantasy;
+  font-style: luminari;
+}
+
+h3 {
+  color: brown;
+  font-family: Brush Script MT;
+}
+
+p {
+  color: green;
+}
+
+h4 {
+  color: darkred;
+  font-family: cursive;
+}
+
+ul {
+  li{
+    border: 1px solid red;
+  }
+}
+
+a:hover {
+  color: darkorange;
+}
+
+a:visited {
+  color:mediumpurple;
+}
+
+.Partners {
+  background-color: aqua;
+}
